@@ -1,0 +1,47 @@
+</style> 
+</head> 
+  
+<body> 
+    <div class="text-center"> 
+        <h2 class="color-fg-success"> 
+            GeeksforGeeks 
+        </h2> 
+          
+        <h4>Primer CSS - Reset Margins</h4> 
+    </div> 
+  
+    <div class="d-flex flex-justify-around  
+        flex-items-center flex-column"> 
+        <div class="color-bg-closed-emphasis"> 
+            <div class="inner color-bg-danger m-0"> 
+                m-0 
+            </div> 
+        </div> 
+  
+        <div class="color-bg-closed-emphasis"> 
+            <div class="inner color-bg-danger mt-0"> 
+                mt-0 
+            </div> 
+        </div> 
+  
+        <div class="color-bg-closed-emphasis"> 
+            <div class="inner color-bg-danger mr-0"> 
+                mr-0 
+            </div> 
+        </div> 
+  
+        <div class="color-bg-closed-emphasis"> 
+            <div class="inner color-bg-danger mb-0"> 
+                mb-0 
+            </div> 
+        </div> 
+  
+        <div class="color-bg-closed-emphasis"> 
+            <div class="inner color-bg-danger ml-0"> 
+                ml-0 
+            </div> 
+        </div> 
+    </div> 
+</body> 
+  
+</html>
